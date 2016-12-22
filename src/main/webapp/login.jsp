@@ -15,6 +15,7 @@
 <h1>添加一个登录页面</h1>
 
     username:<input type="text" name="username"/><br>
-    password:<input type="password" name="password"/>
+    password:<input type="password" name="password"/><br>
+    <input type="submit" value="提交"/>
 </body>
 </html>
