@@ -9,8 +9,10 @@
 <html>
 <head>
     <title>Title</title>
+
 </head>
 <body>
 <h1>添加一个登录页面</h1>
+<input type="text" name="username"/>
 </body>
 </html>
