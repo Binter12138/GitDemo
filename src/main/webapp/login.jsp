@@ -13,6 +13,8 @@
 </head>
 <body>
 <h1>添加一个登录页面</h1>
-<input type="text" name="username"/>
+
+    username:<input type="text" name="username"/><br>
+    password:<input type="password" name="password"/>
 </body>
 </html>
